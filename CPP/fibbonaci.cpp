@@ -3,6 +3,7 @@ using namespace std;
  
 int main(){
         int n,first=0,second=1,third;
+        cout <<" enter the fibbonaci term you want to see " ;
         cin>>n;
         if(n==1){
             cout<<0;
